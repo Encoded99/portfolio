@@ -98,7 +98,21 @@ const projects = [
     description: "Real‑time trading insights, market analysis, strategy tracking, and performance monitoring with actionable decision support.",
     tags: ["Live strategies", "Analytics", "Monitoring"],
     link: "https://thewealthhackers.com/"
-  }
+  },
+  {
+  title: "DrillUp (Mobile)",
+  stack: "React Native (Expo), Node.js",
+  description: "Structured skill progression app for basketball and fitness training. Users unlock drills progressively, ensuring mastery before advancing. Built to promote discipline, consistency, and measurable improvement in athletic performance.",
+  tags: ["Gamified learning", "Fitness", "Progress tracking"],
+  link: "https://play.google.com/store/apps/details?id=com.encoded999.drillup&pcampaignid=web_share"
+},
+  {
+  title: "Hub6 (Mobile Marketplace)",
+  stack: "React Native (Expo), Node.js, MongoDB",
+  description: "A marketplace platform connecting sellers and resellers in one ecosystem. Sellers can upload products for visibility, while resellers discover, share, and resell listings in real-time with notifications and engagement tools.",
+  tags: ["Marketplace", "Real-time listings", "E-commerce"],
+  link: "https://play.google.com/store/apps/details?id=com.encoded999.hub6&pcampaignid=web_share"
+}
 ];
 
 // Grab the grid container
